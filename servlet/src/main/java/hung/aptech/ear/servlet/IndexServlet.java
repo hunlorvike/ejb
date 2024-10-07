@@ -1,4 +1,4 @@
-package crud.web.servlet;
+package hung.aptech.ear.servlet;
 
 import hung.aptech.ejb.entity.Product;
 import hung.aptech.ejb.service.impl.ProductService;

@@ -12,6 +12,7 @@
         <module>core</module>
         <module>servlet</module>
         <module>ejb</module>
+        <module>ear</module>
     </modules>
 
     <dependencyManagement>
