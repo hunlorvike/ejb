@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>crud.web</groupId>
+    <artifactId>DeThi</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ejb</module>
+        <module>servlet</module>
+    </modules>
+
+    <dependencyManagement>
+        <dependencies>
+            <!-- Định nghĩa các dependency dùng chung cho các module -->
+        </dependencies>
+    </dependencyManagement>
+</project>
